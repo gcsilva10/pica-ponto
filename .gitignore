@@ -1,0 +1,12 @@
+node_modules
+
+# virtual environments
+.venv
+venv
+env/
+
+# env files
+.env
+*.env
+
+
